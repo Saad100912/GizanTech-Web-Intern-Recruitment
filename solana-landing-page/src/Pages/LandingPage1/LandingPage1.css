@@ -1,0 +1,47 @@
+.sButton {
+    background-image: linear-gradient(
+        98.88deg,
+        #8c01fa -2.99%,
+        #000000 102.28%
+    );
+}
+
+.header-logo-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.header-logo-container img {
+    width: auto;
+    height: 28px;
+}
+
+.gradient-text-1 {
+    background: linear-gradient(261.81deg, #19fb9b -8.01%, #8c01fa 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 101px;
+    line-height: 132px;
+}
+
+.gradient-text-2 {
+    background: linear-gradient(260.33deg, #0047ff -13.37%, #00bcd4 109.53%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 106px;
+    line-height: 132px;
+}
+
+.gradient-text-3 {
+    background: linear-gradient(265.11deg, #00ffbd -5.84%, #025b8c 111.58%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 110px;
+    line-height: 132px;
+}
