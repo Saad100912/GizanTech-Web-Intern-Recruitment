@@ -36,9 +36,3 @@
 3. The webpages were designed on a 1366x768 resolution monitor. But I used the console to properly design the pages for displays with higher resolution.
 4. I didn't use a separate navbar link to navigate to page 2 to keep the design as identical as possible to the original design.
 5. Page 1 is set as the default route when loading the project. To go to page 2 you'll have to manually write `"/page2"` in the address bar.
-
-### **A request**
-
-I've been able to make half of the pages of task 4. We needed to make 4 pages. I've made 2 landing pages but couldn't make the dashboard for not having enough time. The reason for this might be that I saw the assignment email 1 day late. The email was sent to me on May 1, 3:46 PM and I saw the email on 2 May around the afternoons hours.
-
-After I received the email that I'd been selected for the interview phase there was a 15 days gap before the next response. As a result, I became less aware to check my email regularly. But in the end, I failed to check my email in time. So, I humbly request for extending the deadline by 1 day. I'll keep coding for today. Submit my latest code before 7 May 11:59 PM. If extending the deadline is not possible then you can just view the repository 1 commit earlier. Thank you for your time.
